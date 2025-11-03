@@ -18,3 +18,5 @@ This repository contains solutions for two assignments completed as part of an O
 - Data analysis & reporting
 - Operational optimization & problem solving
 
+## View the Assignments Online
+You can view the Google Sheets version of the assignments [here](https://docs.google.com/spreadsheets/d/1b2MBhb6oQtZl0Aifif8p7enAf_joZR_1p6uqUQunwk4/edit?usp=sharing)
